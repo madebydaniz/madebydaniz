@@ -30,6 +30,20 @@ I am a software engineer with strong experience in backend development, system a
   <br clear="left"/>
 </div>
 
+### MacOs APP
+
+<div>
+  <a href="https://github.com/madebydaniz/Gaia/">
+    <img src="https://raw.githubusercontent.com/madebydaniz/Gaia/main/.github/assets/logo-app.png" align="left" width="120" alt="Gaia">
+  </a>
+  <h3><a href="https://github.com/madebydaniz/Gaia/">Gaia</a></h3>
+  <img src="https://img.shields.io/github/stars/madebydaniz/Gaia?style=social" alt="stars">
+  <p>
+    Gaia is a modern macOS menu bar wallpaper manager built with SwiftUI.
+  </p>
+  <br clear="left"/>
+</div>
+
 ## 🛠️ Tech Stack
 
 <details>
