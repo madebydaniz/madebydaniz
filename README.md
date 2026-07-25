@@ -29,6 +29,19 @@ I am a software engineer with strong experience in backend development, system a
   </p>
   <br clear="left"/>
 </div>
+<div>
+  <a href="https://github.com/madebydaniz/fwdeck/">
+    <img src="https://raw.githubusercontent.com/madebydaniz/fwdeck/main/assets/logo.svg" align="left" width="120" alt="fwdeck">
+  </a>
+  <h3><a href="https://github.com/madebydaniz/fwdeck/">FWDeck</a></h3>
+  <img src="https://img.shields.io/github/stars/madebydaniz/fwdeck?style=social" alt="stars">
+  <p>
+    FWDeck is a safety-first terminal UI for <b>firewalld</b> - manage your Linux
+firewall the way k9s manages Kubernetes: fast, keyboard-only, and with a
+confirmation in front of anything that could lock you out.
+  </p>
+  <br clear="left"/>
+</div>
 
 ### MacOs APP
 
